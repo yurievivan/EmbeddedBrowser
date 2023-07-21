@@ -24,6 +24,7 @@ Below are some examples from the code.</p>
   );
 </code> </br> To see the result of the work, just press the "<b>Cookie By JS</b>" button.</p>
 <div align="center"><img src="https://github.com/yurievivan/EmbeddedBrowser/assets/11561851/5a258023-55b1-4450-b7b9-4e028860958b"></div>
+</br>
 <p>2. Using the static getCookie method of the Browser class, you can get cookie value by name. It is possible to get cookies even with HttpOnly and Secure attributes. Below is an example.<code class="language-java">
 String cookieValue = Browser.getCookie(cookieName, url);
 </code> </br> To see the result of the work, just click the "<b>Cookie</b>" button and enter the <b>Cookie Name</b>.</p></p>
